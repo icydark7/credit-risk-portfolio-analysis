@@ -21,6 +21,11 @@ The dataset contains **32,581 loan records** and includes borrower, loan, and cr
 - Loan-to-income ratio
 - Credit history length
 
+### Dataset Source
+
+Dataset sourced from Kaggle:  
+[Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
+
 ## Business Objectives
 
 The analysis was designed to answer questions such as:
