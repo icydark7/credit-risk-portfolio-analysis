@@ -23,8 +23,7 @@ The dataset contains **32,581 loan records** and includes borrower, loan, and cr
 
 ### Dataset Source
 
-Dataset sourced from Kaggle:  
-[Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
+Dataset sourced from Kaggle:  [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
 
 ## Business Objectives
 
